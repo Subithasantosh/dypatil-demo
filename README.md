@@ -1,2 +1,2 @@
-# dypatil-demo
+# Dypatil-demo
 This is my first Git Repository.
